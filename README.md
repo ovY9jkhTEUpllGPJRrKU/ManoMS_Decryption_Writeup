@@ -40,7 +40,7 @@ That's the algorithm. I didn't write a function to decrypt it, but I will see wh
 
 <img src="./Decrypt_2_Function.png" width="1200">
 
-Here are some references to read if you want to learn/understand more about what I reversed. My goal is to probably take the decryption function and call it to perform the decrypted exe. If I am successful, I will upload it to MPGH.
+Here are some references to read if you want to learn/understand more about what I reversed. My goal is to probably take the decryption function and call it to create a decrypted exe. If I am successful, I will upload it to MPGH.
 
 References:
 - [Youtube: Reverse engineering with #Ghidra: Breaking an embedded firmware encryption scheme](https://www.youtube.com/watch?v=4urMITJKQQs)
